@@ -8,7 +8,7 @@
 
 ## Portfolio
 
-Check out my [awesome portfolio](https://rottigni.tech/) to see some of my recent work!
+Check out my [awesome portfolio](https://portfolio.rottigni.tech/) to see some of my recent work!
 
 <div style="display: flex; align-items: center; justify-content: start; gap: 10px; flex-wrap: wrap;">
 <img src="https://storage.rottigni.tech/fs/github/images/gh_portfolio_1.png" alt="Lorenzo Rottigni" width="340" />
@@ -18,7 +18,7 @@ Check out my [awesome portfolio](https://rottigni.tech/) to see some of my recen
 
 ## Rottigni.tech Environment
 
-I have a number of web services hosted at [Rottigni.tech](https://rottigni.tech/) that you might find interesting:
+I have a number of web services hosted at on rottigni.tech servers that you might find interesting:
 
 - [Storage Rottigni](https://storage.rottigni.tech/) - A static content provider for all your website needs!
 - [CV Rottigni](https://cv.rottigni.tech/) - My online CV, including my work experience and education
