@@ -45,4 +45,4 @@ My life aim is to work on projects developer-to-developer, and I'm always lookin
 
 ## Let's Connect!
 
-I'm always looking to meet new people and collaborate on interesting projects. Feel free to [contact me](mailto:lorenzo@rottigni.tech) or connect with me on [LinkedIn](https://www.linkedin.com/in/lorenzo-rottigni/)!
+I'm always looking to meet new people and collaborate on interesting projects. Feel free to [contact me](mailto:lorenzo@rottigni.tech) or connect with me on [LinkedIn](https://www.linkedin.com/in/lorenzo-rottigni-ba402b222/)!
