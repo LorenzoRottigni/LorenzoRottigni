@@ -22,7 +22,7 @@ I have a number of web services hosted at on rottigni.tech servers that you migh
 
 - [Storage Rottigni](https://storage.rottigni.tech/) - A static content provider for all your website needs!
 - [CV Rottigni](https://cv.rottigni.tech/) - My online CV, including my work experience and education
-- [Portfolio Rottigni](https://rottigni.tech/) - My personal portfolio with my latest projects
+- [Portfolio Rottigni](https://portfolio.rottigni.tech/) - My personal portfolio with my latest projects
 
 <div style="display: flex; align-items: center; justify-content: start; gap: 10px; flex-wrap: wrap;">
 <img src="https://storage.rottigni.tech/fs/github/images/gh_storage.png" alt="Lorenzo Rottigni" width="340" />
@@ -45,4 +45,4 @@ My life aim is to work on projects developer-to-developer, and I'm always lookin
 
 ## Let's Connect!
 
-I'm always looking to meet new people and collaborate on interesting projects. Feel free to [contact me](mailto:your-email@domain.com) or connect with me on [LinkedIn](https://www.linkedin.com/in/lorenzo-rottigni/)!
+I'm always looking to meet new people and collaborate on interesting projects. Feel free to [contact me](mailto:lorenzo@rottigni.tech) or connect with me on [LinkedIn](https://www.linkedin.com/in/lorenzo-rottigni/)!
