@@ -14,6 +14,7 @@ Check out my [awesome portfolio](https://portfolio.rottigni.tech/) to see some o
 <img src="https://storage.rottigni.tech/fs/github/images/gh_portfolio_1.png" alt="Lorenzo Rottigni" width="340" />
 <img src="https://storage.rottigni.tech/fs/github/images/gh_portfolio_2.png" alt="Lorenzo Rottigni" width="340" />
 <img src="https://storage.rottigni.tech/fs/github/images/gh_portfolio_3.png" alt="Lorenzo Rottigni" width="340" />
+<img src="https://storage.rottigni.tech/fs/github/images/gh_portfolio_4.png" alt="Lorenzo Rottigni" width="340" />
 </div>
 
 ## Rottigni.tech Environment
