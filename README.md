@@ -38,7 +38,7 @@ I have experience with a variety of languages and technologies, including:
 - Front-end technologies such as **Vue.js**/**Nuxt.js** and **ReactJS/Next.js**
 - Frameworks like **Express.js**, **NestJS**, **Flask**, and **PHP/Laravel**
 - Familiarity with popular HTTP protocols, including **REST**, **GraphQL**, **WebSocket**, SMTP, IMAP, POP3, HTTP(S), (S)FTP, TCP, TELNET...
-- Infrastructure components like **NGINX**, **Apache**, and **Docker**
+- Infrastructure components such as **NGINX**, **Apache**, and **Docker**
 
 ## Open-Source Projects
 
