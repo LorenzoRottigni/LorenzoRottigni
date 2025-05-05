@@ -1,7 +1,7 @@
 # Hi there! 👋
 
 <div style="display: flex; align-items: center;">
-<img src="https://storage.rottigni.tech/fs/github/images/gh_hero.png" alt="Lorenzo Rottigni" width="225" />
+<img src="https://s3.rottigni.tech/public/github/lorenzo-rottigni.webp" alt="Lorenzo Rottigni" width="225" />
 <p>I'm Lorenzo Rottigni, a <strong>24-year-old</strong> Full-Stack Web Developer currently working at <a href="https://deesup.com/">Deesup</a>. My life aim is to work on open-source projects and collaborate with other developers. I use GitHub for small projects and GitLab for larger ones, so my activity may not be fully reflected on GitHub.</p>
 </div>
 
